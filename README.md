@@ -51,4 +51,4 @@ localhost:/
 
 * CREDITS
 
-* [FAHMI IDRIS AN](https://www.instagram.com/an_geom21/) - My INSTAGRAM****
+* [An_Geom](https://www.instagram.com/an_geom21/) - My INSTAGRAM****
