@@ -22,6 +22,7 @@
 * XAMPP v3.30
 * PHP 8.2.0
 * VSCODE 1.8.0
+* Powershell 5.1.2
 
 ## Structure
 
