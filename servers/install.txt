@@ -15,3 +15,7 @@ untuk memberhentikannya cukup stop_servers
 jika anda kill terminal nya saja mysql akan tetap berjalan 
 
 NB: dan pastikan lingkungan xampp ada di C ataupun di D jika anda menginstall nya di D
+
+
+
+jika terdapat Pertanyaan bisa ke nomer WA: 085772746246
