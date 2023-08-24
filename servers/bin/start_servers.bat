@@ -8,7 +8,7 @@ if "%ERRORLEVEL%"=="0" (
     echo Apache2 Sudah Berjalan Sebelumnya
 ) else (
     echo Apache 2 starting ...
-    start /B httpd
+    start /B apache\bin\httpd.exe
 )
 
 tasklist /FI "IMAGENAME eq mysqld.exe" 2>NUL | find /I /N "mysqld.exe">NUL
