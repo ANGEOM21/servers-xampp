@@ -29,9 +29,8 @@
 ```
 📦servers
  ┣ 📂bin
- ┃ ┣ 📜data.json
- ┃ ┣ 📜data.json
- ┃ ┗ 📜data.json
+ ┃ ┣ 📜start_servers.bat
+ ┃ ┗ 📜stop_servers.bat
  ┣ 📜install.txt
  ┗ 📜configure.ps1
 ```
