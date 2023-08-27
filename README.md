@@ -39,11 +39,10 @@
 Pindahkan semua folder ke dalam 
 C:\
 
-masuk ke directory servers lalu jalankan .\configure.ps1 di powershell sebagai admin
-jika tetap tidak bisa coba jalankan dengan cmd sebagai administrator
-lalu pastekan kode berikut
+masuk ke directory servers lalu jalankan 
+
 ```
-powershell -NoProfile -ExecutionPolicy Bypass -File .\configure.ps1
+./configure
 ```
 * harap catat menjalankan dimana file configure itu berada
 
