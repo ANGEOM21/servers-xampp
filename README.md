@@ -46,7 +46,7 @@ masuk ke directory servers lalu jalankan di terminal sebagai administrator
 ./configure
 ```
 
-*powershell admin
+* command prompt admin
 ```
 configure
 ```
@@ -64,4 +64,4 @@ localhost:/
 
 * [An_Geom](https://www.instagram.com/an_geom21/) - My INSTAGRAM****
 
-* help: [Whatsapp](whatsapp://send?text=Hello&phone=+6285772746246")
+* help: [Whatsapp](https://www.whatsapp://send?text=Hello&phone=+6285772746246")
