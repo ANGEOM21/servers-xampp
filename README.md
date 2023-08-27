@@ -39,12 +39,12 @@
 Pindahkan semua folder ke dalam 
 C:\
 
-masuk ke directory servers lalu jalankan 
+masuk ke directory servers lalu jalankan di terminal sebagai administrator
 
 ```
 ./configure
 ```
-* harap catat menjalankan dimana file configure itu berada
+* harap catat menjalankan dimana file configure itu berada dan sebagai adminstrator !!!
 
 jika sudah jalankan start_servers
 untuk stopnya stop_servers
