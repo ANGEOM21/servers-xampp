@@ -45,7 +45,7 @@ lalu pastekan kode berikut
 ```
 powershell -NoProfile -ExecutionPolicy Bypass -File .\configure.ps1
 ```
-#### harap catat menjalankan dimana file configure itu berada
+* harap catat menjalankan dimana file configure itu berada
 
 jika sudah jalankan start_servers
 untuk stopnya stop_servers
