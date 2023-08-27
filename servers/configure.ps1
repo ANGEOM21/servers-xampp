@@ -46,4 +46,4 @@ Start-Sleep -Seconds 2
 Write-Host -ForegroundColor Green "Configurasi Selesai"
 
 
-@REM author: Angeom21
+# author: Angeom21
