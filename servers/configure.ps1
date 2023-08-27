@@ -47,4 +47,4 @@ Write-Host -ForegroundColor Green "Configurasi Selesai"
 
 
 
-#author: An_geom
+@REM author: An_geom
