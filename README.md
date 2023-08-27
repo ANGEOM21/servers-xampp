@@ -41,8 +41,14 @@ C:\
 
 masuk ke directory servers lalu jalankan di terminal sebagai administrator
 
+*powershell admin
 ```
 ./configure
+```
+
+*powershell admin
+```
+configure
 ```
 * harap catat menjalankan dimana file configure itu berada dan sebagai adminstrator !!!
 
@@ -57,3 +63,5 @@ localhost:/
 * CREDITS
 
 * [An_Geom](https://www.instagram.com/an_geom21/) - My INSTAGRAM****
+
+* help: [Whatsapp](whatsapp://send?text=Hello&phone=+6285772746246")
