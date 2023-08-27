@@ -39,7 +39,13 @@
 Pindahkan semua folder ke dalam 
 C:\
 
-lalu jalankan .\configure.ps1 di powershell sebagai admin
+masuk ke directory servers lalu jalankan .\configure.ps1 di powershell sebagai admin
+jika tetap tidak bisa coba jalankan dengan cmd sebagai administrator
+lalu pastekan kode berikut
+```
+powershell -NoProfile -ExecutionPolicy Bypass -File .\configure.ps1
+```
+#### harap catat menjalankan dimana file configure itu berada
 
 jika sudah jalankan start_servers
 untuk stopnya stop_servers
